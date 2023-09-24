@@ -2,9 +2,9 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2023-09-24T16:45:04.175059500Z</date>
-  <millis>1695573904175</millis>
-  <nanos>59500</nanos>
+  <date>2023-09-24T18:59:51.048973100Z</date>
+  <millis>1695581991048</millis>
+  <nanos>973100</nanos>
   <sequence>0</sequence>
   <logger>org.openqa.selenium.devtools.CdpVersionFinder</logger>
   <level>WARNING</level>
@@ -14,9 +14,9 @@
   <message>Unable to find an exact match for CDP version 117, so returning the closest version found: 116</message>
 </record>
 <record>
-  <date>2023-09-24T16:45:06.176206500Z</date>
-  <millis>1695573906176</millis>
-  <nanos>206500</nanos>
+  <date>2023-09-24T18:59:52.792146400Z</date>
+  <millis>1695581992792</millis>
+  <nanos>146400</nanos>
   <sequence>1</sequence>
   <logger></logger>
   <level>INFO</level>
@@ -26,9 +26,9 @@
   <message>There are 9 pages of results</message>
 </record>
 <record>
-  <date>2023-09-24T16:45:06.181205600Z</date>
-  <millis>1695573906181</millis>
-  <nanos>205600</nanos>
+  <date>2023-09-24T18:59:52.797146200Z</date>
+  <millis>1695581992797</millis>
+  <nanos>146200</nanos>
   <sequence>2</sequence>
   <logger></logger>
   <level>INFO</level>
@@ -38,9 +38,9 @@
   <message>Getting products on page 2</message>
 </record>
 <record>
-  <date>2023-09-24T16:45:07.777823700Z</date>
-  <millis>1695573907777</millis>
-  <nanos>823700</nanos>
+  <date>2023-09-24T18:59:54.025942200Z</date>
+  <millis>1695581994025</millis>
+  <nanos>942200</nanos>
   <sequence>3</sequence>
   <logger></logger>
   <level>INFO</level>
@@ -50,9 +50,9 @@
   <message>Getting products on page 3</message>
 </record>
 <record>
-  <date>2023-09-24T16:45:09.295431900Z</date>
-  <millis>1695573909295</millis>
-  <nanos>431900</nanos>
+  <date>2023-09-24T18:59:55.152148700Z</date>
+  <millis>1695581995152</millis>
+  <nanos>148700</nanos>
   <sequence>4</sequence>
   <logger></logger>
   <level>INFO</level>
@@ -62,9 +62,9 @@
   <message>Getting products on page 4</message>
 </record>
 <record>
-  <date>2023-09-24T16:45:10.368901800Z</date>
-  <millis>1695573910368</millis>
-  <nanos>901800</nanos>
+  <date>2023-09-24T18:59:56.168875100Z</date>
+  <millis>1695581996168</millis>
+  <nanos>875100</nanos>
   <sequence>5</sequence>
   <logger></logger>
   <level>INFO</level>
@@ -74,9 +74,9 @@
   <message>Getting products on page 5</message>
 </record>
 <record>
-  <date>2023-09-24T16:45:11.316529Z</date>
-  <millis>1695573911316</millis>
-  <nanos>529000</nanos>
+  <date>2023-09-24T18:59:57.173425900Z</date>
+  <millis>1695581997173</millis>
+  <nanos>425900</nanos>
   <sequence>6</sequence>
   <logger></logger>
   <level>INFO</level>
@@ -86,9 +86,9 @@
   <message>Getting products on page 6</message>
 </record>
 <record>
-  <date>2023-09-24T16:45:12.706570300Z</date>
-  <millis>1695573912706</millis>
-  <nanos>570300</nanos>
+  <date>2023-09-24T18:59:58.157684200Z</date>
+  <millis>1695581998157</millis>
+  <nanos>684200</nanos>
   <sequence>7</sequence>
   <logger></logger>
   <level>INFO</level>
@@ -98,9 +98,9 @@
   <message>Getting products on page 7</message>
 </record>
 <record>
-  <date>2023-09-24T16:45:17.788674800Z</date>
-  <millis>1695573917788</millis>
-  <nanos>674800</nanos>
+  <date>2023-09-24T18:59:59.212745700Z</date>
+  <millis>1695581999212</millis>
+  <nanos>745700</nanos>
   <sequence>8</sequence>
   <logger></logger>
   <level>INFO</level>
@@ -110,9 +110,9 @@
   <message>Getting products on page 8</message>
 </record>
 <record>
-  <date>2023-09-24T16:45:19.125264200Z</date>
-  <millis>1695573919125</millis>
-  <nanos>264200</nanos>
+  <date>2023-09-24T19:00:00.171747700Z</date>
+  <millis>1695582000171</millis>
+  <nanos>747700</nanos>
   <sequence>9</sequence>
   <logger></logger>
   <level>INFO</level>
@@ -122,10 +122,22 @@
   <message>Getting products on page 9</message>
 </record>
 <record>
-  <date>2023-09-24T16:45:25.156616600Z</date>
-  <millis>1695573925156</millis>
-  <nanos>616600</nanos>
+  <date>2023-09-24T19:00:01.118392800Z</date>
+  <millis>1695582001118</millis>
+  <nanos>392800</nanos>
   <sequence>10</sequence>
+  <logger></logger>
+  <level>INFO</level>
+  <class>StainlessWorkTableSearchValidation</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Adding to cart:  Regency 30" x 48" 16-Gauge Stainless Steel Equipment Stand with Galvanized Undershelf, 10" Plate Shelf, and 10" Stainless Steel Adjustable Work Surface</message>
+</record>
+<record>
+  <date>2023-09-24T19:00:08.374684200Z</date>
+  <millis>1695582008374</millis>
+  <nanos>684200</nanos>
+  <sequence>11</sequence>
   <logger>org.openqa.selenium.remote.http.WebSocket</logger>
   <level>WARNING</level>
   <class>org.openqa.selenium.remote.http.WebSocket$Listener</class>
